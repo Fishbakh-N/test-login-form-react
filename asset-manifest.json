@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-login-form-react/static/css/main.b6ded675.chunk.css",
+    "main.js": "/test-login-form-react/static/js/main.508825c8.chunk.js",
+    "main.js.map": "/test-login-form-react/static/js/main.508825c8.chunk.js.map",
+    "runtime-main.js": "/test-login-form-react/static/js/runtime-main.889d530b.js",
+    "runtime-main.js.map": "/test-login-form-react/static/js/runtime-main.889d530b.js.map",
+    "static/js/2.88ca89cb.chunk.js": "/test-login-form-react/static/js/2.88ca89cb.chunk.js",
+    "static/js/2.88ca89cb.chunk.js.map": "/test-login-form-react/static/js/2.88ca89cb.chunk.js.map",
+    "index.html": "/test-login-form-react/index.html",
+    "precache-manifest.bc460da1a3ac7eb92231ddb470eb2f18.js": "/test-login-form-react/precache-manifest.bc460da1a3ac7eb92231ddb470eb2f18.js",
+    "service-worker.js": "/test-login-form-react/service-worker.js",
+    "static/css/main.b6ded675.chunk.css.map": "/test-login-form-react/static/css/main.b6ded675.chunk.css.map",
+    "static/js/2.88ca89cb.chunk.js.LICENSE.txt": "/test-login-form-react/static/js/2.88ca89cb.chunk.js.LICENSE.txt",
+    "static/media/bg.png": "/test-login-form-react/static/media/bg.90fa2009.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.889d530b.js",
+    "static/js/2.88ca89cb.chunk.js",
+    "static/css/main.b6ded675.chunk.css",
+    "static/js/main.508825c8.chunk.js"
+  ]
+}
